@@ -1,0 +1,5 @@
+# 策略绩效 tearsheet 仅用标准库 + numpy/pandas；
+# 生产取数（基金净值/指数基准）依赖 panda_data SDK，
+# 由组织 skill-pandadata-api 提供，不在此强制安装。
+numpy>=1.21
+pandas>=1.5
