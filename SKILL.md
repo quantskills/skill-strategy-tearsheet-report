@@ -6,7 +6,7 @@ description: >
   performance report: annualized return, Sharpe/Sortino/Calmar, max drawdown,
   rolling metrics, monthly return heatmap, drawdown table, and benchmark-relative
   stats. Outputs JSON + an HTML dashboard.
-license: GPL-3.0
+license: GPL-3.0-only
 category: 工具
 metadata:
   organization: QuantSkills
