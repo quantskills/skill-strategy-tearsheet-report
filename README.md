@@ -1,5 +1,7 @@
 # skill-strategy-tearsheet-report
 
+[English](README.en.md)
+
 策略绩效 Tearsheet 报告生成器 —— 输入一条净值/收益序列（CSV: `date,nav` 或 `date,return`），输出机构级绩效画像：年化收益/波动、夏普/索提诺/Calmar/Omega、最大回撤与 Top-N 回撤区间、偏度/峰度/VaR/CVaR、滚动指标、月度收益热力图、可选相对基准分析。产出 **JSON + 自包含 HTML 看板 + 中文摘要**。
 
 > QuantSkills 组织技能 · 数据源 Pandadata（可选）· 仅供研究参考，不构成投资建议。
@@ -83,3 +85,7 @@ examples/      run_demo.py · sample_data/（nav.csv · get_index_daily.json）
 ## 免责
 
 本工具仅用于绩效分析方法论演示与研究参考，不构成任何投资建议。历史绩效不代表未来表现。
+
+## 许可证
+
+GPL-3.0-only，详见 [LICENSE](LICENSE)。
