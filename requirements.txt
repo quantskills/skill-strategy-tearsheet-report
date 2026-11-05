@@ -3,3 +3,4 @@
 # 由组织 skill-pandadata-api 提供，不在此强制安装。
 numpy>=1.21
 pandas>=1.5
+panda_data==1.0.6
