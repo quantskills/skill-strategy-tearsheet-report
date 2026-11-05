@@ -149,3 +149,7 @@ skill-strategy-tearsheet-report/
 - 年化期数必须与序列频率一致，否则夏普失真。
 - 月度热力图要求序列跨度 ≥ 2 个月才有意义。
 - 只做研究/绩效展示参考，不构成投资建议。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
